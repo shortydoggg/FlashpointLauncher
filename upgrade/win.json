@@ -1,0 +1,12 @@
+{
+  "infinity": {
+    "title": "infinity",
+    "description": "infinityDesc",
+    "verify_files":  [ "readme.txt" ],
+    "verify_sha256": [ "75198EF0DCFAA3DD5F3478C0FEC973E3C3F0BD4B4B0F3D6612387C133DF42048" ],
+    "deletePaths": [ "Data\\Platforms\\", "Data\\Images\\", "FPSoftware\\BrowserPlugins\\", "FPSoftware\\Basilisk-Portable\\Bin\\"  ],
+    "keepPaths": [ "Data\\Playlists\\favorites.json" ],
+    "sources": [ "https://archive.org/download/FP71-infinity/FP71-Infinity.7z" ],
+    "sources_sha256": "4187BE51B436022DD94DF81CC2A6395AB271165ABA4C2A0D12677F692E67EDC3"
+  }
+}
