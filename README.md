@@ -35,7 +35,7 @@ Install by running ``sudo apt install libgtk-3-0 libnss3``
 
 ## Development
 Recommended setup for development:
-1. Clone the repository with ``git clone --recurse-submodules https://github.com/Shortydoggg/FlashpointLauncher.git launcher``
+1. Clone the repository with ``git clone --branch master --recurse-submodules https://github.com/Shortydoggg/FlashpointLauncher.git launcher``
 2. In the new 'launcher' folder run ``npm run watch`` and let the prompt stay open
 3. Open a second command prompt and run ``npm run start``
 
