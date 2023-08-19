@@ -25,7 +25,7 @@ The Flashpoint Launcher (FPL) is a desktop application made for browsing, storin
 How to setup a development environment:
 1. Download the project (and extract it, if it was downloaded as an archive)
 2. Open a command prompt and navigate it to the projects root folder
-3. Run ``npm install``
+3. Run ``npm install --force``
 
 ## Linux Dependencies
 * `libgtk-3-0`
@@ -35,7 +35,7 @@ Install by running ``sudo apt install libgtk-3-0 libnss3``
 
 ## Development
 Recommended setup for development:
-1. Clone the repository with ``git clone --recurse-submodules https://github.com/FlashpointProject/launcher.git launcher``
+1. Clone the repository with ``git clone --recurse-submodules https://github.com/Shortydoggg/FlashpointLauncher.git launcher``
 2. In the new 'launcher' folder run ``npm run watch`` and let the prompt stay open
 3. Open a second command prompt and run ``npm run start``
 
